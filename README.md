@@ -25,7 +25,7 @@ ShoppyGlobe is a basic e-commerce web application built using React, Redux Toolk
 ## 🚀 How to Run
 
 1. Clone the repository
-https://github.com/varunmarulkar/ShoppyGlobe-E-Commerce.git
+https://github.com/bathulashashi/shopify-react.git
 
 
 2. Install dependencies
@@ -53,5 +53,6 @@ npm run dev
 
 
 Author
-Made by Varun Marulkar.# shopify-react
+bathula shashi chandra.# shopify-react
+# shopify-react
 # shopify-react
